@@ -1,0 +1,13 @@
+The Long Paycheck — longpaycheck.com
+Copyright (c) 2026 The Long Paycheck. All rights reserved.
+
+This repository is published solely so that GitHub Pages can serve the website.
+Publication is NOT a licence. No permission is granted to copy, fork, modify,
+redistribute or reuse any part of the design, code, copy, images, wordmark,
+LP monogram or timeline-rule mark, in whole or in part, for any purpose.
+Forking this repository does not grant any rights.
+
+Infringement will be pursued under the U.S. Copyright Act (17 U.S.C.) and the
+Digital Millennium Copyright Act, including takedown notices to GitHub and hosts.
+
+Business inquiries: value@longpaycheck.com
