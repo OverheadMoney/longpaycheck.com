@@ -1,0 +1,627 @@
+1
+00:00:00,000 --> 00:00:08,180
+$500,000 at 62. That sounds like a lot until you divide it by 30 years.
+
+2
+00:00:08,880 --> 00:00:13,460
+So let's do the division slowly, because the number that comes out is the
+
+3
+00:00:13,460 --> 00:00:17,260
+one nobody shows you. By the end of this,
+
+4
+00:00:17,420 --> 00:00:22,460
+you'll have three numbers. What $500,000 actually pays you each month.
+
+5
+00:00:22,900 --> 00:00:25,640
+What Social Security adds if you take it at 62.
+
+6
+00:00:26,320 --> 00:00:29,180
+And what's left after the tax man takes his share.
+
+7
+00:00:29,780 --> 00:00:31,500
+Then we'll do the part most people skip.
+
+8
+00:00:32,140 --> 00:00:34,640
+We'll ask whether that number still works at 82.
+
+9
+00:00:35,760 --> 00:00:39,840
+Nothing here is advice. It's a worked example with every assumption set
+
+10
+00:00:39,840 --> 00:00:42,220
+out loud, so you can swap in your own figures.
+
+11
+00:00:43,060 --> 00:00:46,260
+Here's the person we're using. 62. Single.
+
+12
+00:00:46,980 --> 00:00:50,640
+$500,000 in a traditional 401k or IRA,
+
+13
+00:00:51,060 --> 00:00:53,200
+which means none of it has been taxed yet.
+
+14
+00:00:53,660 --> 00:00:56,620
+No pension, paid off house, or close to it.
+
+15
+00:00:56,940 --> 00:00:59,420
+That's the whole picture. If yours is different,
+
+16
+00:00:59,680 --> 00:01:02,560
+and it will be, you'll hear exactly where to change the number.
+
+17
+00:01:03,240 --> 00:01:04,760
+Let's start with the money you saved.
+
+18
+00:01:06,180 --> 00:01:08,880
+There's an old rule of thumb called the 4 % rule.
+
+19
+00:01:09,360 --> 00:01:13,320
+It came out of research in the 1990s that looked at every 30 -year stretch
+
+20
+00:01:13,320 --> 00:01:16,160
+of American market history and asked one question.
+
+21
+00:01:16,780 --> 00:01:18,740
+How much could you have pulled out in year one,
+
+22
+00:01:18,980 --> 00:01:21,040
+raised with inflation every year after,
+
+23
+00:01:21,320 --> 00:01:24,480
+and not run dry before year 30? The answer,
+
+24
+00:01:24,660 --> 00:01:28,160
+in most of those 30 -year windows, was about 4%.
+
+25
+00:01:28,160 --> 00:01:33,120
+4 % of $500,000 is $20,000 a year.
+
+26
+00:01:33,580 --> 00:01:38,180
+Divide by 12. That's $1,667 a month.
+
+27
+00:01:38,920 --> 00:01:42,400
+Hold that. $20,000 a year out of half a million.
+
+28
+00:01:42,960 --> 00:01:45,200
+That's the first number, and for a lot of people,
+
+29
+00:01:45,360 --> 00:01:47,980
+it's the first shock. The pile looks big.
+
+30
+00:01:48,400 --> 00:01:52,840
+The paycheck it makes does not. And 4 % is the moderate case.
+
+31
+00:01:53,440 --> 00:01:57,640
+Plenty of people who study this now say 3.5 % is the safer place to start
+
+32
+00:01:57,640 --> 00:02:01,560
+because the research covered 30 years and you might need more than that.
+
+33
+00:02:02,060 --> 00:02:08,480
+3.5 % is $17,500 a year. $1,458 a month.
+
+34
+00:02:09,060 --> 00:02:13,540
+So the savings alone pay somewhere between about $1,400 and about $1,700
+
+35
+00:02:13,540 --> 00:02:16,760
+a month. Before tax. Before anything.
+
+36
+00:02:17,780 --> 00:02:20,840
+Why 30 years? Because that's how long you might need it.
+
+37
+00:02:21,180 --> 00:02:25,640
+The Social Security Administration's own table says a man reaching 65 in
+
+38
+00:02:25,640 --> 00:02:28,700
+2026 can expect to live to about 84.
+
+39
+00:02:29,340 --> 00:02:32,420
+A woman to about 87. And those are averages.
+
+40
+00:02:33,140 --> 00:02:35,180
+Half the people live longer than the average.
+
+41
+00:02:35,880 --> 00:02:38,960
+Plan for the half you might be in. How to check yours.
+
+42
+00:02:39,740 --> 00:02:43,980
+Take your total retirement savings. Multiply by .04.
+
+43
+00:02:44,600 --> 00:02:47,770
+Then divide by 12. That's your moderate number.
+
+44
+00:02:48,430 --> 00:02:52,230
+Multiply by .035 instead for the cautious one.
+
+45
+00:02:52,810 --> 00:02:57,370
+Write both down. We'll need them. Now the second paycheck.
+
+46
+00:02:58,010 --> 00:03:00,290
+The one you've been paying into since your first job.
+
+47
+00:03:01,130 --> 00:03:03,730
+Here's the thing about taking Social Security at 62.
+
+48
+00:03:04,530 --> 00:03:09,670
+It works. You can. But the check is permanently smaller and the size of
+
+49
+00:03:09,670 --> 00:03:14,070
+the cut surprises people. For anyone born in 1960 or later,
+
+50
+00:03:14,430 --> 00:03:17,950
+full retirement age is 67. Claim at 62,
+
+51
+00:03:18,370 --> 00:03:23,010
+five years early, and Social Security reduces your benefit by 30%.
+
+52
+00:03:23,010 --> 00:03:27,390
+Not for a while. For life. Let's put a figure on it.
+
+53
+00:03:27,670 --> 00:03:33,610
+The average retired workers check in January 2026 is about $2,071 a month
+
+54
+00:03:33,610 --> 00:03:37,230
+after this year's cost of living increase of 2.8%.
+
+55
+00:03:37,230 --> 00:03:41,010
+So let's give our person a full age benefit of $2,000.
+
+56
+00:03:41,570 --> 00:03:45,950
+Round. Close to average. Claim at 62 and 30 % comes off.
+
+57
+00:03:46,550 --> 00:03:52,010
+$2,000 becomes $1,400. $1,400 a month.
+
+58
+00:03:52,590 --> 00:03:57,490
+That's the second number. One more catch at 62 and it bites anyone who's
+
+59
+00:03:57,490 --> 00:04:00,330
+still working part -time. There's an earnings test.
+
+60
+00:04:00,790 --> 00:04:05,210
+For 2026, if you're under full retirement age and you earn more than $24,480
+
+61
+00:04:05,210 --> 00:04:11,690
+in a year from work, Social Security holds back $1 of benefit for every
+
+62
+00:04:11,690 --> 00:04:16,810
+$2 you earn over that line. Withdrawals from your IRA don't count as earnings.
+
+63
+00:04:17,290 --> 00:04:21,510
+A paycheck does. You get that money back later in a recalculated benefit,
+
+64
+00:04:21,690 --> 00:04:24,870
+but it can hollow out the plan in the years you were counting on it.
+
+65
+00:04:25,330 --> 00:04:30,930
+How to check yours. Go to ssa .gov, sign in to My Social Security and open
+
+66
+00:04:30,930 --> 00:04:34,230
+your statement. It shows your estimated benefit at 62,
+
+67
+00:04:41,670 --> 00:04:45,990
+at the end of the first. So far we've got two numbers on the table.
+
+68
+00:04:46,850 --> 00:04:50,430
+Savings, about $1,667 a month in the moderate case.
+
+69
+00:04:51,170 --> 00:04:56,810
+Social Security, $1,400. Add them and you get $3,067 a month.
+
+70
+00:04:57,330 --> 00:04:59,310
+That is not what lands in your account.
+
+71
+00:04:59,870 --> 00:05:03,510
+Two things come off first. Let's take the smaller one first because it's
+
+72
+00:05:03,510 --> 00:05:08,530
+the one people get wrong. Tax. Every dollar out of that traditional 401k
+
+73
+00:05:08,530 --> 00:05:11,970
+is ordinary income because it was never taxed going in.
+
+74
+00:05:12,390 --> 00:05:15,890
+$20,000 of withdrawals is $20,000 of income.
+
+75
+00:05:16,510 --> 00:05:18,530
+Then there's the part almost nobody expects.
+
+76
+00:05:19,470 --> 00:05:21,210
+Social Security itself can be taxed.
+
+77
+00:05:21,650 --> 00:05:25,050
+The government adds up your other income plus half your Social Security
+
+78
+00:05:25,050 --> 00:05:28,490
+and calls it provisional income. For a single person,
+
+79
+00:05:28,730 --> 00:05:33,130
+once that total crosses $25,000, some of your benefit becomes taxable.
+
+80
+00:05:33,710 --> 00:05:39,390
+Let's run it. $20,000 from savings plus half of the $16,800 a year in
+
+81
+00:05:39,390 --> 00:05:43,330
+Social Security, which is $8,400. Provisional income,
+
+82
+00:05:43,730 --> 00:05:48,030
+$28,400. That's $3,400 over the line.
+
+83
+00:05:48,550 --> 00:05:53,510
+Half of that, $1,700 of Social Security is now taxable income.
+
+84
+00:05:53,990 --> 00:05:59,270
+Total taxable income, $21,700. Now subtract the standard deduction.
+
+85
+00:05:59,710 --> 00:06:07,710
+For 2026, single, that's $16,100. What's left is $5,600 and it's all in
+
+86
+00:06:07,710 --> 00:06:10,430
+the 10 % bracket. Federal tax for the year,
+
+87
+00:06:10,810 --> 00:06:17,090
+$560. About $47 a month. That's a lot smaller than most people fear and
+
+88
+00:06:17,090 --> 00:06:19,310
+it's worth knowing why. At this income,
+
+89
+00:06:19,530 --> 00:06:21,470
+the standard deduction eats most of it.
+
+90
+00:06:21,750 --> 00:06:26,410
+The tax problem in retirement usually shows up later at 73 when required
+
+91
+00:06:26,410 --> 00:06:29,730
+minimum distributions start and the government makes you take money out
+
+92
+00:06:29,730 --> 00:06:32,310
+whether you want it or not. That's its own episode.
+
+93
+00:06:33,110 --> 00:06:36,830
+State tax is your number, not mine. Some states tax none of this,
+
+94
+00:06:37,110 --> 00:06:40,570
+some tax all of it. Look yours up. So here's the ledger.
+
+95
+00:06:41,850 --> 00:06:47,050
+Savings, $1,667. Social Security, $1,400.
+
+96
+00:06:47,690 --> 00:06:52,670
+Federal tax, minus $47. $3,020 a month.
+
+97
+00:06:53,170 --> 00:06:58,670
+That's the number. $500,000 at 62 with an average Social Security check
+
+98
+00:06:58,670 --> 00:07:02,570
+comes to about $3,020 a month after federal tax.
+
+99
+00:07:03,030 --> 00:07:08,290
+In the cautious case at 3.5%, it's about $2,843.
+
+100
+00:07:08,810 --> 00:07:13,590
+Now the item that isn't on that ledger and it's the big one at 62.
+
+101
+00:07:14,210 --> 00:07:17,850
+Health insurance. Medicare doesn't start until $65.
+
+102
+00:07:18,490 --> 00:07:22,570
+That's three years you're buying your own coverage and the premium depends
+
+103
+00:07:22,570 --> 00:07:25,990
+on your income and your state. So I'm not going to make one up.
+
+104
+00:07:26,550 --> 00:07:30,510
+Go to healthcare .gov, put in your zip code and the income we just calculated
+
+105
+00:07:30,510 --> 00:07:34,770
+and get your real quote. Then subtract it from 3,020.
+
+106
+00:07:35,370 --> 00:07:37,950
+For some people, that line changes everything.
+
+107
+00:07:38,990 --> 00:07:42,070
+How to check yours. Add your two numbers from before.
+
+108
+00:07:42,550 --> 00:07:46,610
+Then look up the standard deduction for your filing status and run the provisional
+
+109
+00:07:46,610 --> 00:07:49,330
+income test with your own Social Security figure.
+
+110
+00:07:49,830 --> 00:07:55,170
+It's four lines of arithmetic. If you'd rather a CPA or a fee only fiduciary
+
+111
+00:07:55,170 --> 00:07:58,950
+can do the whole thing in an hour with your actual statements in front of
+
+112
+00:07:58,950 --> 00:08:02,590
+them. And that's the one time in this video I'll say that.
+
+113
+00:08:02,990 --> 00:08:07,050
+$3,020 a month. Does it still work at 82?
+
+114
+00:08:07,950 --> 00:08:10,690
+Here's the problem. That number is in $20,
+
+115
+00:08:10,710 --> 00:08:15,790
+$26. At 3 % inflation, which is roughly the long run average,
+
+116
+00:08:16,190 --> 00:08:23,150
+20 years from now, $3,020 buys what about $1,670 buys today.
+
+117
+00:08:23,690 --> 00:08:29,230
+At 30 years, about $1,240. Social Security fixes part of that for you.
+
+118
+00:08:29,610 --> 00:08:31,770
+It gets a cost of living increase most years.
+
+119
+00:08:32,330 --> 00:08:37,510
+This year's was 2.8%. The 4 % rule assumes you raise your withdrawal with
+
+120
+00:08:37,510 --> 00:08:40,990
+inflation too. But that's the assumption doing the heavy lifting.
+
+121
+00:08:41,430 --> 00:08:43,490
+And it's the one that breaks in a bad decade.
+
+122
+00:08:44,050 --> 00:08:47,610
+If the market falls hard in your first five years while you're pulling $20,000
+
+123
+00:08:47,610 --> 00:08:51,830
+a year out, the math from the 1990s research starts to fail.
+
+124
+00:08:52,410 --> 00:08:54,870
+That's why the cautious people say three and a half.
+
+125
+00:08:55,610 --> 00:08:58,230
+So let's run one alternative. Not a recommendation,
+
+126
+00:08:58,850 --> 00:09:02,790
+just the other number. What if this person waits on Social Security until
+
+127
+00:09:02,790 --> 00:09:06,210
+67 and lives on savings alone for five years?
+
+128
+00:09:06,710 --> 00:09:09,510
+The check at 67 is the full $2,000,
+
+129
+00:09:10,110 --> 00:09:14,330
+not $1,400. $600 a month more. For life.
+
+130
+00:09:14,890 --> 00:09:17,210
+With cost of living increases on the bigger figure.
+
+131
+00:09:17,770 --> 00:09:21,130
+The cost is five years of Social Security they didn't collect.
+
+132
+00:09:21,830 --> 00:09:25,690
+$1,400 a month, 60 months, $84,000.
+
+133
+00:09:26,290 --> 00:09:29,050
+That has to come out of the $500,000 instead.
+
+134
+00:09:29,510 --> 00:09:32,230
+On top of the $20,000 a year they were already taking.
+
+135
+00:09:32,970 --> 00:09:38,650
+Divide $84,000 by the $600 a month they gain and it takes about 140 months
+
+136
+00:09:38,650 --> 00:09:44,530
+to catch up. That's about age 79. Live past 79 and waiting paid more.
+
+137
+00:09:45,210 --> 00:09:48,630
+Don't and claiming early did. Neither answer is right.
+
+138
+00:09:49,110 --> 00:09:52,070
+One of them is right for you and it depends on your health,
+
+139
+00:09:52,430 --> 00:09:54,390
+your savings and whether you're still working.
+
+140
+00:09:54,970 --> 00:09:59,070
+What matters is that you saw both numbers before you signed anything because
+
+141
+00:09:59,070 --> 00:10:02,970
+the claiming decision is one of the few in retirement you can't take back.
+
+142
+00:10:03,690 --> 00:10:09,170
+How to check yours. On that same Social Security statement take the 67 figure
+
+143
+00:10:09,170 --> 00:10:13,550
+minus the 62 figure. Multiply the 62 figure by 60.
+
+144
+00:10:14,070 --> 00:10:17,590
+Divide the second by the first. That's your break even in months.
+
+145
+00:10:18,050 --> 00:10:21,230
+Count it from 67 because that's when the bigger check starts.
+
+146
+00:10:22,850 --> 00:10:28,350
+So three numbers. Half a million dollars pays about $1,700 a month if you
+
+147
+00:10:28,350 --> 00:10:34,370
+want it to last 30 years. Social Security at 62 adds about $1,400 and takes
+
+148
+00:10:34,370 --> 00:10:37,030
+30 % off your check forever to do it.
+
+149
+00:10:37,450 --> 00:10:43,010
+After federal tax that's about $3,020 a month before health insurance,
+
+150
+00:10:43,350 --> 00:10:46,830
+before your state, before inflation gets its 30 years.
+
+151
+00:10:47,510 --> 00:10:51,410
+One thing to do this week. Pull your Social Security statement and your
+
+152
+00:10:51,410 --> 00:10:55,810
+latest 401k balance and put the two numbers next to each other on one sheet
+
+153
+00:10:55,810 --> 00:10:59,190
+of paper. That sheet is the beginning of the whole plan.
+
+154
+00:10:59,710 --> 00:11:01,790
+If you want the next number work the same way,
+
+155
+00:11:02,210 --> 00:11:05,550
+subscribe. Friday's episode is the other side of this one.
+
+156
+00:11:05,810 --> 00:11:10,170
+A $40,000 pension against the lump sum they are for you to give it up.
+
+157
+00:11:10,630 --> 00:11:12,390
+Run your own number. See you Friday.
