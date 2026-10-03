@@ -1,0 +1,711 @@
+1
+00:00:00,000 --> 00:00:06,500
+The letter says $450,000. More money than most people have ever seen in
+
+2
+00:00:06,500 --> 00:00:12,060
+one place. Yours in one check. If you give up your pension for it.
+
+3
+00:00:12,520 --> 00:00:14,660
+And at the bottom of the letter, there's a deadline.
+
+4
+00:00:16,300 --> 00:00:19,740
+So before that date comes, let's put the two side by side.
+
+5
+00:00:20,160 --> 00:00:24,240
+The check you'd get every month for the rest of your life and the pile you'd
+
+6
+00:00:24,240 --> 00:00:29,160
+get once. Then four tests. Which one pays you more each month?
+
+7
+00:00:29,160 --> 00:00:32,180
+What the number in the letter is really built on?
+
+8
+00:00:32,580 --> 00:00:35,560
+What inflation does to each one over 20 years?
+
+9
+00:00:36,060 --> 00:00:38,640
+And who carries the risk when something goes wrong?
+
+10
+00:00:39,340 --> 00:00:43,720
+Nothing here is advice. It's a worked example with every assumption set
+
+11
+00:00:43,720 --> 00:00:46,600
+out loud. So you can put your own letter next to it.
+
+12
+00:00:46,920 --> 00:00:50,020
+Here's the person we're using. 65.
+
+13
+00:00:50,060 --> 00:00:55,280
+Single. Retiring this year. The pension pays $40,000 a year for life.
+
+14
+00:00:55,580 --> 00:01:01,120
+Which is $3,333 a month. That's called a single life pension.
+
+15
+00:01:01,680 --> 00:01:04,800
+It pays as long as you're alive and it stops when you die.
+
+16
+00:01:05,400 --> 00:01:08,720
+Like most private pensions, it has no cost of living increase.
+
+17
+00:01:09,280 --> 00:01:11,660
+The check on day one is the check at 90.
+
+18
+00:01:12,280 --> 00:01:14,600
+And the plan is offering a lump sum instead.
+
+19
+00:01:15,140 --> 00:01:20,380
+For this example, $450,000. That figure isn't pulled from the air.
+
+20
+00:01:20,900 --> 00:01:24,760
+Using the interest rates the IRS published for July 2026,
+
+21
+00:01:24,760 --> 00:01:30,100
+a $40,000 pension at 65 works out to a lump sum in that neighborhood.
+
+22
+00:01:30,680 --> 00:01:32,240
+Your letter will have its own number.
+
+23
+00:01:32,480 --> 00:01:35,540
+And in the second test, you'll see exactly why it moves.
+
+24
+00:01:36,220 --> 00:01:37,960
+Why would a company offer this at all?
+
+25
+00:01:38,500 --> 00:01:42,140
+Because a pension is a promise it has to keep funding for decades.
+
+26
+00:01:42,560 --> 00:01:44,860
+And a lump sum ends the promise today.
+
+27
+00:01:45,360 --> 00:01:49,060
+That's not sinister. It's the company moving a risk off its books.
+
+28
+00:01:49,640 --> 00:01:52,300
+The question is whether you want that risk on yours.
+
+29
+00:01:52,940 --> 00:01:57,080
+One more thing before the math. Read the line about the deadline twice.
+
+30
+00:01:57,740 --> 00:02:01,700
+Find out what happens if you do nothing and whether the choice can be undone.
+
+31
+00:02:02,340 --> 00:02:05,700
+Once the lump sum is paid, the pension is gone for good.
+
+32
+00:02:06,160 --> 00:02:09,300
+There's no buying it back. Let's start with the paycheck.
+
+33
+00:02:11,260 --> 00:02:14,520
+Test one. If you take the $450,000,
+
+34
+00:02:15,260 --> 00:02:18,560
+how much can it pay you each month? Last episode,
+
+35
+00:02:18,560 --> 00:02:22,140
+we used the 4% rule. Pull 4% in year one,
+
+36
+00:02:22,520 --> 00:02:26,740
+raise it with inflation, and history says the money usually lasts 30 years.
+
+37
+00:02:27,360 --> 00:02:31,600
+4% of $450,000 is $18,000 a year.
+
+38
+00:02:32,260 --> 00:02:37,180
+$1,500 a month. The pension pays $3,333.
+
+39
+00:02:38,140 --> 00:02:40,540
+Same money. Less than half the paycheck.
+
+40
+00:02:41,200 --> 00:02:45,720
+And at the cautious 3 .5%, the lump sum pays about $1,300 a month.
+
+41
+00:02:46,360 --> 00:02:49,860
+Now, that's not quite a fair fight. And it's worth saying why.
+
+42
+00:02:50,160 --> 00:02:54,460
+The 4% rule is built to last 30 years and rise with inflation.
+
+43
+00:02:55,120 --> 00:02:58,120
+The pension never rises, and it stops when you do.
+
+44
+00:02:58,680 --> 00:03:01,760
+So let's make the lump sum do exactly what the pension does.
+
+45
+00:03:02,160 --> 00:03:06,100
+Pay $40,000 a year, flat, and see how long it lasts.
+
+46
+00:03:06,720 --> 00:03:09,980
+To match the pension, you'd be pulling almost 9% a year.
+
+47
+00:03:10,580 --> 00:03:14,360
+If the money earns nothing, it's gone in 11 years and 3 months,
+
+48
+00:03:14,900 --> 00:03:20,000
+age 76. If it earns 4% a year, it runs out a little before age 80.
+
+49
+00:03:20,160 --> 00:03:26,440
+At 6%, about 83. At 7% every single year with no bad stretches,
+
+50
+00:03:26,800 --> 00:03:30,820
+age 86. So the real question is how long you're going to need it.
+
+51
+00:03:31,300 --> 00:03:34,700
+The Social Security Administration's own life table answers that,
+
+52
+00:03:35,020 --> 00:03:38,680
+averaged across men and women. Of everyone who reaches 65,
+
+53
+00:03:39,200 --> 00:03:41,640
+about 7 in 10 are still alive at 80.
+
+54
+00:03:42,080 --> 00:03:45,800
+About half reach 85. And about 3 in 10 reach 90.
+
+55
+00:03:46,330 --> 00:03:51,560
+The averages, from the same agency, are about 84 for a man reaching 65 in
+
+56
+00:03:51,560 --> 00:03:57,220
+2026, and about 87 for a woman. And half of everyone outlives the average.
+
+57
+00:03:57,920 --> 00:03:59,780
+Think about what that means for the lump sum.
+
+58
+00:04:00,400 --> 00:04:03,260
+At a steady 6%, it runs out around 83.
+
+59
+00:04:04,080 --> 00:04:07,560
+More than half the people holding that check are still alive after it's
+
+60
+00:04:07,560 --> 00:04:10,800
+empty. The pension doesn't care which half you turn out to be.
+
+61
+00:04:11,140 --> 00:04:13,680
+It keeps paying. How to check yours.
+
+62
+00:04:14,320 --> 00:04:16,540
+Find the monthly pension figure in your letter,
+
+63
+00:04:16,860 --> 00:04:19,600
+multiply by 12, and divide by the lump sum.
+
+64
+00:04:20,140 --> 00:04:22,920
+That's the withdrawal rate the lump sum has to support.
+
+65
+00:04:23,380 --> 00:04:26,120
+If that number is above about 6 or 7%,
+
+66
+00:04:26,120 --> 00:04:29,020
+the money has to earn a lot, every single year,
+
+67
+00:04:29,120 --> 00:04:32,940
+just to keep up. Then, be honest about the other half of the math,
+
+68
+00:04:33,260 --> 00:04:36,600
+which is you, your health. How long your parents lived.
+
+69
+00:04:37,120 --> 00:04:40,140
+A pension is really insurance against living a long time.
+
+70
+00:04:40,460 --> 00:04:43,180
+It's worth the most to the people who end up needing it.
+
+71
+00:04:44,480 --> 00:04:48,980
+Test 2. Where does the number in the letter actually come from?
+
+72
+00:04:49,640 --> 00:04:52,280
+It isn't the company's opinion of what your pension is worth.
+
+73
+00:04:52,760 --> 00:04:55,520
+There's a formula, and the IRS sets the ingredients.
+
+74
+00:04:56,200 --> 00:05:00,080
+Two of them. A life table for how long people your age tend to live.
+
+75
+00:05:00,580 --> 00:05:03,780
+And a set of interest rates, based on corporate bond yields,
+
+76
+00:05:03,900 --> 00:05:08,020
+that the IRS publishes every month. The rates are the part that moves.
+
+77
+00:05:08,620 --> 00:05:11,900
+There are three of them. One for the payments in your first five years,
+
+78
+00:05:11,900 --> 00:05:15,540
+one for the next 15, and one for everything after that.
+
+79
+00:05:16,040 --> 00:05:20,600
+For July 2026, they ran from about 4 .5% on the near years,
+
+80
+00:05:20,800 --> 00:05:24,360
+to about 6 .5% on the far ones. The math works backwards.
+
+81
+00:05:24,920 --> 00:05:28,020
+It asks, how much money today, earning those rates,
+
+82
+00:05:28,300 --> 00:05:30,620
+would cover every check you're expected to collect?
+
+83
+00:05:31,180 --> 00:05:33,420
+That's your lump sum. Here's the catch.
+
+84
+00:05:33,960 --> 00:05:36,440
+When rates go up, the lump sum goes down.
+
+85
+00:05:37,040 --> 00:05:40,840
+Same pension, same person. If those rates were one point lower,
+
+86
+00:05:41,140 --> 00:05:43,920
+this offer would be about $480,000.
+
+87
+00:05:44,020 --> 00:05:48,760
+One point higher, about $410,000. So two people with identical pensions
+
+88
+00:05:48,760 --> 00:05:53,340
+can get offers $70,000 apart, just by retiring in different years.
+
+89
+00:05:54,060 --> 00:05:56,060
+Neither offer is a trick. It's arithmetic.
+
+90
+00:05:56,740 --> 00:05:59,860
+But it does mean the rate in your letter matters as much as the pension
+
+91
+00:05:59,860 --> 00:06:02,620
+it's replacing. You can't negotiate the formula.
+
+92
+00:06:03,140 --> 00:06:06,280
+You can check that it was applied. Test three.
+
+93
+00:06:06,940 --> 00:06:10,560
+Inflation. And this is where the lump sum wins one back.
+
+94
+00:06:11,260 --> 00:06:14,160
+The pension is flat. At 3% inflation,
+
+95
+00:06:14,460 --> 00:06:16,180
+which is roughly the long run average,
+
+96
+00:06:16,480 --> 00:06:22,160
+$40,000 at 65 buys what about $24,000 buys today by the time you're 82.
+
+97
+00:06:22,820 --> 00:06:27,760
+At 85, about $22,000. At 90, about $19,000.
+
+98
+00:06:28,160 --> 00:06:31,460
+The check looks the same. It just buys less every year.
+
+99
+00:06:32,100 --> 00:06:36,400
+The lump sum, drawn down at 4%, is designed to rise with prices.
+
+100
+00:06:36,400 --> 00:06:42,180
+That $1,500 a month at 65 becomes about $2,480 a month by 82.
+
+101
+00:06:42,820 --> 00:06:45,360
+Smaller to start. But it keeps its value.
+
+102
+00:06:45,880 --> 00:06:48,480
+And whatever's left when you die goes to whoever you name.
+
+103
+00:06:49,060 --> 00:06:51,280
+A single life pension leaves nothing behind.
+
+104
+00:06:51,840 --> 00:06:55,560
+If heirs matter to you, or you want a cushion you control for a new roof
+
+105
+00:06:55,560 --> 00:06:58,480
+or a hospital bill, that counts. It's real.
+
+106
+00:06:59,500 --> 00:07:03,720
+How to check yours. Your election packet is required to show what each option
+
+107
+00:07:03,720 --> 00:07:05,700
+is worth compared to the standard pension.
+
+108
+00:07:05,700 --> 00:07:10,540
+Look for the words relative value and ask the plan which month's interest
+
+109
+00:07:10,540 --> 00:07:13,120
+rates they used and when that rate resets.
+
+110
+00:07:14,880 --> 00:07:17,300
+Test four. When something goes wrong,
+
+111
+00:07:17,660 --> 00:07:22,580
+who pays? Take the pension and the company carries the market risk and the
+
+112
+00:07:22,580 --> 00:07:25,600
+risk that you live to a hundred. If the company fails,
+
+113
+00:07:26,020 --> 00:07:28,000
+the Pension Benefit Guaranty Corporation,
+
+114
+00:07:28,460 --> 00:07:31,740
+a federal agency, steps in. For 2026,
+
+115
+00:07:32,020 --> 00:07:37,540
+it guarantees up to about $7,790 a month for someone starting at 65.
+
+116
+00:07:38,280 --> 00:07:42,140
+The limit is lower if payments start younger and higher if they start later.
+
+117
+00:07:42,660 --> 00:07:44,720
+This pension is well under that line.
+
+118
+00:07:45,320 --> 00:07:48,020
+Take the lump sum and all of that risk is yours.
+
+119
+00:07:48,820 --> 00:07:53,500
+Here's what that looks like. Pull $40,000 a year and earn 6% every year
+
+120
+00:07:53,500 --> 00:07:57,380
+and the money lasts 17 years. Now give it one bad year,
+
+121
+00:07:57,540 --> 00:08:01,680
+down 20% right at the start. Same 6% after that.
+
+122
+00:08:01,920 --> 00:08:07,180
+It lasts 11 years. Put that same bad year 10 years in and it lasts 15.
+
+123
+00:08:07,820 --> 00:08:10,600
+The order of the returns matters as much as the average.
+
+124
+00:08:11,280 --> 00:08:13,200
+Two more traps sit inside the paperwork.
+
+125
+00:08:13,960 --> 00:08:18,880
+First, taxes. Have the plan move the money straight to an IRA called a direct
+
+126
+00:08:18,880 --> 00:08:23,060
+rollover and nothing is taxed yet. But if the check is made out to you,
+
+127
+00:08:23,320 --> 00:08:28,300
+the plan must withhold 20%. That's $90,000 sent to the IRS.
+
+128
+00:08:28,860 --> 00:08:33,140
+You have 60 days to put the full $450,000 into an IRA,
+
+129
+00:08:33,620 --> 00:08:37,500
+which means finding that $90,000 from your own pocket or it gets taxed
+
+130
+00:08:37,500 --> 00:08:41,940
+as income. After that, the tax is a wash in one way and different in
+
+131
+00:08:41,940 --> 00:08:45,720
+another. Pension checks are taxed as ordinary income as they arrive.
+
+132
+00:08:46,340 --> 00:08:49,080
+Money you pull from the IRA is taxed the same way.
+
+133
+00:08:49,560 --> 00:08:52,220
+The difference is control. With the IRA,
+
+134
+00:08:52,540 --> 00:08:54,480
+you decide how much to take each year,
+
+135
+00:08:54,720 --> 00:08:56,740
+at least until required withdrawals start.
+
+136
+00:08:56,740 --> 00:09:00,720
+For someone born in 1960 or later, that's age 75.
+
+137
+00:09:01,460 --> 00:09:03,700
+And if you're retiring before 59 and a half,
+
+138
+00:09:04,040 --> 00:09:07,560
+there's a wrinkle. Money taken straight from the plan after you leave the
+
+139
+00:09:07,560 --> 00:09:12,680
+job in or after the year you turn 55 can avoid the 10% early withdrawal
+
+140
+00:09:12,680 --> 00:09:17,360
+penalty. Roll it into an IRA first and that exception generally no longer
+
+141
+00:09:17,360 --> 00:09:21,920
+applies. Second, if you're married, the default isn't a single life pension
+
+142
+00:09:21,920 --> 00:09:24,600
+at all. It's a joint and survivor pension,
+
+143
+00:09:24,600 --> 00:09:27,700
+so your spouse keeps getting at least half after you die.
+
+144
+00:09:28,160 --> 00:09:31,500
+That protection costs something. With a spouse the same age,
+
+145
+00:09:31,780 --> 00:09:36,180
+a fair conversion would take this $40,000 down to about $36,000 a year
+
+146
+00:09:36,180 --> 00:09:40,240
+for a half survivor benefit. Your plan's letter lists its own figures.
+
+147
+00:09:40,720 --> 00:09:44,820
+And to take the lump sum instead, your spouse has to sign away that right
+
+148
+00:09:44,820 --> 00:09:48,300
+in writing, witnessed by a notary or a plan representative.
+
+149
+00:09:49,060 --> 00:09:51,620
+It's a decision for two people, not one.
+
+150
+00:09:52,940 --> 00:09:58,600
+So, four tests. The paycheck goes to the pension by more than double.
+
+151
+00:09:59,240 --> 00:10:02,520
+The number in the letter depends on interest rates you don't control.
+
+152
+00:10:03,160 --> 00:10:07,740
+Inflation goes to the lump sum and the risk moves from the company to you
+
+153
+00:10:07,740 --> 00:10:11,240
+the moment you sign. Neither answer is right for everyone.
+
+154
+00:10:11,720 --> 00:10:15,460
+The pension tends to fit people in good health from long -lived families
+
+155
+00:10:15,460 --> 00:10:17,500
+who'd lose sleep over a market drop.
+
+156
+00:10:17,980 --> 00:10:21,260
+The lump sum tends to fit people with other income for the basics.
+
+157
+00:10:21,260 --> 00:10:24,560
+A shorter outlook or someone they want to leave money to.
+
+158
+00:10:25,180 --> 00:10:28,640
+Before you sign either way, answer three questions on paper.
+
+159
+00:10:29,540 --> 00:10:34,320
+One, add up your guaranteed income. Social security plus this pension if
+
+160
+00:10:34,320 --> 00:10:37,240
+you keep it. Does that cover the bills that can't be skipped?
+
+161
+00:10:37,860 --> 00:10:40,400
+Housing, food, insurance, utilities?
+
+162
+00:10:40,940 --> 00:10:43,080
+If the pension is what makes that line work,
+
+163
+00:10:43,560 --> 00:10:46,560
+losing it is a bigger deal than the lump sum makes it look.
+
+164
+00:10:47,060 --> 00:10:51,380
+Two, if you're married, write down what your spouse would receive each month
+
+165
+00:10:51,380 --> 00:10:53,620
+under every option after you're gone.
+
+166
+00:10:54,080 --> 00:10:59,120
+Not just what you receive. Three, ask the plan whether it's all or nothing.
+
+167
+00:10:59,640 --> 00:11:04,080
+Some plans allow other choices like a partial lump sum or a different survivor
+
+168
+00:11:04,080 --> 00:11:06,880
+percentage. The letter doesn't always lead with them.
+
+169
+00:11:07,440 --> 00:11:13,400
+One thing to do this week. Ask an insurance company what $450,000 or whatever
+
+170
+00:11:13,400 --> 00:11:16,380
+your letter says would buy as an income for life.
+
+171
+00:11:16,380 --> 00:11:18,940
+If the answer is less than your pension pays,
+
+172
+00:11:19,460 --> 00:11:21,780
+you've learned what the plan's offer is really worth.
+
+173
+00:11:22,520 --> 00:11:26,960
+A CPA or a fee -only fiduciary can run your own letter with your own health
+
+174
+00:11:26,960 --> 00:11:29,180
+and your own taxes in about an hour.
+
+175
+00:11:29,680 --> 00:11:31,720
+If you want the next number worked the same way,
+
+176
+00:11:32,060 --> 00:11:33,000
+subscribe.
+
+177
+00:11:34,170 --> 00:11:36,470
+Will your money last as long as you do?
+
+178
+00:11:37,220 --> 00:11:39,570
+Run your own number. See you Tuesday.

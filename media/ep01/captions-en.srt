@@ -400,7 +400,7 @@ Now the item that isn't on that ledger and it's the big one at 62.
 
 101
 00:07:14,210 --> 00:07:17,850
-Health insurance. Medicare doesn't start until $65.
+Health insurance. Medicare doesn't start until 65.
 
 102
 00:07:18,490 --> 00:07:22,570
@@ -620,8 +620,12 @@ subscribe. Friday's episode is the other side of this one.
 
 156
 00:11:05,810 --> 00:11:10,170
-A $40,000 pension against the lump sum they are for you to give it up.
+A $40,000 pension against the lump sum they offer you to give it up.
 
 157
-00:11:10,630 --> 00:11:12,390
+00:11:11,680 --> 00:11:13,980
+Will your money last as long as you do?
+
+158
+00:11:14,730 --> 00:11:17,080
 Run your own number. See you Friday.
