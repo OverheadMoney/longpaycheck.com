@@ -76,7 +76,7 @@ Medicare, or their trustees with the date
 
 20
 00:00:50,220 --> 00:00:51,340
-set out loud.
+said out loud.
 
 21
 00:00:51,740 --> 00:00:53,760
@@ -532,7 +532,7 @@ the lines are catching you.
 
 134
 00:05:44,960 --> 00:05:47,060
-Number 3. The Drift.
+Number three. The drift.
 
 135
 00:05:47,880 --> 00:05:49,680
@@ -672,11 +672,11 @@ At 75, about $900.
 
 169
 00:07:17,460 --> 00:07:19,760
-At 80, about $1600.
+At 80, about $1,600.
 
 170
 00:07:20,260 --> 00:07:23,980
-At 85, nearly $2700 a year.
+At 85, nearly $2,700 a year.
 
 171
 00:07:24,240 --> 00:07:26,760
@@ -684,7 +684,7 @@ At the faster pace, the 85-year-old's
 
 172
 00:07:26,780 --> 00:07:29,180
-number is closer to $4400.
+number is closer to $4,400.
 
 173
 00:07:29,380 --> 00:07:31,500
@@ -792,7 +792,7 @@ With no health costs at all, that money
 
 199
 00:08:33,280 --> 00:08:35,100
-would last until about $103.
+would last until about 103.
 
 200
 00:08:35,600 --> 00:08:38,800
@@ -812,7 +812,7 @@ At 5% premium growth, the money runs dry
 
 204
 00:08:47,200 --> 00:08:51,440
-at $99. At 6.5%, $97.
+at 99. At 6.5%, 97.
 
 205
 00:08:53,480 --> 00:08:56,980
@@ -820,11 +820,11 @@ Run it again at a more cautious 4% return.
 
 206
 00:08:57,220 --> 00:09:00,120
-With no drift, the money lasts to $96.
+With no drift, the money lasts to 96.
 
 207
 00:09:00,460 --> 00:09:05,520
-With the drift, $94, or $93, 2 to 6 years
+With the drift, 94, or 93. 2 to 6 years
 
 208
 00:09:05,540 --> 00:09:08,360
