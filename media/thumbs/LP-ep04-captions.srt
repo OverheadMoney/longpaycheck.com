@@ -228,7 +228,7 @@ center of your My Social Security account
 
 58
 00:02:28,100 --> 00:02:30,280
-at ssa .gov.
+at ssa.gov.
 
 59
 00:02:30,680 --> 00:02:32,880
@@ -320,7 +320,7 @@ filer in 2026, Medicare adds a surcharge
 
 81
 00:03:30,360 --> 00:03:34,180
-called IRMAA, the income -related
+called IRMAA, the income-related
 
 82
 00:03:34,200 --> 00:03:37,040
@@ -328,7 +328,7 @@ surcharge. It's based on that older tax
 
 83
 00:03:37,060 --> 00:03:40,240
-return. So, a one -time spike, a big
+return. So, a one-time spike, a big
 
 84
 00:03:40,260 --> 00:03:42,900
@@ -680,7 +680,7 @@ At 85, nearly $2700 a year.
 
 171
 00:07:24,240 --> 00:07:26,760
-At the faster pace, the 85 -year -old's
+At the faster pace, the 85-year-old's
 
 172
 00:07:26,780 --> 00:07:29,180
@@ -1036,7 +1036,7 @@ in your own handwriting.
 
 260
 00:11:08,700 --> 00:11:11,960
-A fee only fiduciary or a CPA can put that
+A fee-only fiduciary or a CPA can put that
 
 261
 00:11:11,980 --> 00:11:14,240
