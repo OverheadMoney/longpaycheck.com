@@ -1,0 +1,1079 @@
+1
+00:00:00,000 --> 00:00:02,720
+Every January, your Social Security check
+
+2
+00:00:02,740 --> 00:00:03,780
+gets a raise.
+
+3
+00:00:04,140 --> 00:00:06,940
+And every January, before that raise ever
+
+4
+00:00:06,960 --> 00:00:10,100
+reaches your bank, Medicare takes its cut.
+
+5
+00:00:11,340 --> 00:00:13,700
+This year, the cut is small.
+
+6
+00:00:14,100 --> 00:00:16,460
+Over 20 years, it isn't.
+
+7
+00:00:16,680 --> 00:00:18,880
+And whatever it takes, you'll have to find
+
+8
+00:00:18,900 --> 00:00:19,980
+somewhere else.
+
+9
+00:00:20,260 --> 00:00:22,620
+At an age when going back to work isn't an
+
+10
+00:00:22,640 --> 00:00:26,220
+option. The 2027 raise was announced on
+
+11
+00:00:26,240 --> 00:00:27,820
+October 14th.
+
+12
+00:00:27,840 --> 00:00:30,260
+So today, we run three numbers.
+
+13
+00:00:30,640 --> 00:00:33,920
+The raise, the cut, and the drift between
+
+14
+00:00:33,940 --> 00:00:36,940
+them. The slow one, the one nobody puts in
+
+15
+00:00:36,960 --> 00:00:39,780
+a headline. Then we put all three on top
+
+16
+00:00:39,800 --> 00:00:42,180
+of a real savings balance and see what
+
+17
+00:00:42,200 --> 00:00:44,540
+they do to the age the money runs out.
+
+18
+00:00:44,960 --> 00:00:47,320
+Every figure comes from Social Security,
+
+19
+00:00:47,580 --> 00:00:50,200
+Medicare, or their trustees with the date
+
+20
+00:00:50,220 --> 00:00:51,340
+set out loud.
+
+21
+00:00:51,740 --> 00:00:53,760
+It's education, not advice.
+
+22
+00:00:54,140 --> 00:00:56,000
+Your numbers will be your own.
+
+23
+00:00:56,820 --> 00:00:59,280
+Number one, the raise.
+
+24
+00:01:00,340 --> 00:01:02,440
+Social Security goes up each year with a
+
+25
+00:01:02,460 --> 00:01:04,780
+measure of inflation, the consumer price
+
+26
+00:01:04,800 --> 00:01:06,340
+index for wage earners.
+
+27
+00:01:06,760 --> 00:01:08,940
+The government compares prices from July
+
+28
+00:01:08,960 --> 00:01:11,040
+through September with the same three
+
+29
+00:01:11,060 --> 00:01:12,380
+months a year earlier.
+
+30
+00:01:12,400 --> 00:01:14,440
+And the difference becomes your cost of
+
+31
+00:01:14,460 --> 00:01:15,440
+living adjustment.
+
+32
+00:01:15,860 --> 00:01:19,920
+For 2027, that adjustment is 3.6%.
+
+33
+00:01:19,940 --> 00:01:22,500
+The average retired worker collects about
+
+34
+00:01:22,520 --> 00:01:25,520
+$2,071 a month this year.
+
+35
+00:01:25,820 --> 00:01:29,940
+A 3.6% raise adds about $75 a month.
+
+36
+00:01:30,300 --> 00:01:31,400
+That's real money.
+
+37
+00:01:31,800 --> 00:01:34,440
+Over a year, it's about $890.
+
+38
+00:01:34,980 --> 00:01:37,380
+It arrives automatically in the January
+
+39
+00:01:37,400 --> 00:01:39,640
+payment, and you don't have to apply for
+
+40
+00:01:39,660 --> 00:01:43,140
+it. For context, in their spring report,
+
+41
+00:01:43,160 --> 00:01:45,440
+Social Security's trustees projected a
+
+42
+00:01:45,460 --> 00:01:48,280
+2.7% raise for 2027.
+
+43
+00:01:48,300 --> 00:01:50,840
+And over the last 10 years, the raises
+
+44
+00:01:50,860 --> 00:01:52,920
+have ranged from a fraction of a percent
+
+45
+00:01:52,940 --> 00:01:56,740
+to 8.7%. A big raise usually means the
+
+46
+00:01:56,760 --> 00:01:58,920
+year before was hard on your budget.
+
+47
+00:01:59,140 --> 00:02:01,500
+It's catching up, not getting ahead.
+
+48
+00:02:02,240 --> 00:02:04,300
+Here's the part that matters for later.
+
+49
+00:02:04,740 --> 00:02:07,220
+The raise is a percentage of your check.
+
+50
+00:02:07,400 --> 00:02:09,540
+It isn't a percentage of your bills.
+
+51
+00:02:10,000 --> 00:02:12,160
+If the things you actually pay for rise
+
+52
+00:02:12,180 --> 00:02:14,740
+faster than prices in general, the raise
+
+53
+00:02:14,760 --> 00:02:17,480
+falls behind, even when the headline looks
+
+54
+00:02:17,500 --> 00:02:20,680
+generous. How to check yours?
+
+55
+00:02:21,400 --> 00:02:23,760
+In early December, Social Security posts
+
+56
+00:02:23,780 --> 00:02:25,700
+your new benefit amount in the message
+
+57
+00:02:25,720 --> 00:02:28,080
+center of your My Social Security account
+
+58
+00:02:28,100 --> 00:02:30,280
+at ssa .gov.
+
+59
+00:02:30,680 --> 00:02:32,880
+It shows the new gross amount before
+
+60
+00:02:32,900 --> 00:02:35,660
+anything comes out, which brings us to the
+
+61
+00:02:35,680 --> 00:02:37,060
+thing that comes out.
+
+62
+00:02:38,540 --> 00:02:40,420
+Number two, the cut.
+
+63
+00:02:40,780 --> 00:02:42,660
+If you're on Medicare and collecting
+
+64
+00:02:42,680 --> 00:02:46,040
+Social Security, your Part B premium, the
+
+65
+00:02:46,060 --> 00:02:47,880
+monthly charge for doctor visits and
+
+66
+00:02:47,900 --> 00:02:50,140
+outpatient care, comes straight out of
+
+67
+00:02:50,160 --> 00:02:52,240
+your check before it's deposited.
+
+68
+00:02:52,500 --> 00:02:54,200
+You never see that money.
+
+69
+00:02:54,500 --> 00:02:57,780
+For 2026, the standard Part B premium is
+
+70
+00:02:57,800 --> 00:03:00,560
+$202.90 a month.
+
+71
+00:03:00,820 --> 00:03:03,740
+The 2027 premium won't be official until
+
+72
+00:03:03,760 --> 00:03:05,820
+Medicare announces it, usually in
+
+73
+00:03:05,840 --> 00:03:08,240
+November. Medicare's own trustees
+
+74
+00:03:08,260 --> 00:03:11,960
+projected it at about $209.50.
+
+75
+00:03:12,440 --> 00:03:15,620
+That's about $6.60 more a month.
+
+76
+00:03:16,100 --> 00:03:17,640
+One more line on the cut.
+
+77
+00:03:17,940 --> 00:03:20,420
+Not everyone pays the standard premium.
+
+78
+00:03:20,700 --> 00:03:23,040
+If your income two years ago was above a
+
+79
+00:03:23,060 --> 00:03:26,560
+set level, about $109,000 for a single
+
+80
+00:03:26,580 --> 00:03:30,340
+filer in 2026, Medicare adds a surcharge
+
+81
+00:03:30,360 --> 00:03:34,180
+called IRMAA, the income -related
+
+82
+00:03:34,200 --> 00:03:37,040
+surcharge. It's based on that older tax
+
+83
+00:03:37,060 --> 00:03:40,240
+return. So, a one -time spike, a big
+
+84
+00:03:40,260 --> 00:03:42,900
+required withdrawal, a Roth conversion,
+
+85
+00:03:43,060 --> 00:03:45,000
+the sale of a house, can raise your
+
+86
+00:03:45,020 --> 00:03:46,760
+premium two years later.
+
+87
+00:03:46,940 --> 00:03:49,020
+For most viewers, it won't apply.
+
+88
+00:03:49,180 --> 00:03:51,460
+If it might, it's worth knowing before the
+
+89
+00:03:51,480 --> 00:03:53,240
+year you take a large withdrawal.
+
+90
+00:03:53,660 --> 00:03:55,980
+So this year, the math is gentle.
+
+91
+00:03:56,120 --> 00:03:59,640
+A raise of about $75, a cut of about
+
+92
+00:03:59,660 --> 00:04:04,400
+$6.60. You keep about $68 a month of the
+
+93
+00:04:04,420 --> 00:04:07,000
+increase. If that were the whole story,
+
+94
+00:04:07,080 --> 00:04:08,680
+this would be a short video.
+
+95
+00:04:09,220 --> 00:04:10,380
+How to check yours.
+
+96
+00:04:10,820 --> 00:04:12,620
+The notice from Social Security lists
+
+97
+00:04:12,640 --> 00:04:13,860
+three lines.
+
+98
+00:04:14,180 --> 00:04:16,780
+Your new benefit, the Medicare deduction,
+
+99
+00:04:16,980 --> 00:04:19,400
+and what actually lands in your account.
+
+100
+00:04:19,720 --> 00:04:21,280
+Write all three down.
+
+101
+00:04:21,380 --> 00:04:22,440
+Keep the paper.
+
+102
+00:04:22,580 --> 00:04:24,480
+You'll want last year's next to it.
+
+103
+00:04:25,560 --> 00:04:28,020
+Before we get to the slow part, one more
+
+104
+00:04:28,040 --> 00:04:30,280
+thing comes out of a raise, and it moves
+
+105
+00:04:30,300 --> 00:04:32,520
+even less than the premium does.
+
+106
+00:04:34,400 --> 00:04:35,960
+Part of your Social Security becomes
+
+107
+00:04:35,980 --> 00:04:38,760
+taxable once your income passes a line set
+
+108
+00:04:38,780 --> 00:04:41,640
+by law. For a single filer, that line
+
+109
+00:04:41,660 --> 00:04:44,980
+starts at $25,000, counting half your
+
+110
+00:04:45,000 --> 00:04:47,020
+benefit plus your other income.
+
+111
+00:04:47,260 --> 00:04:50,960
+Above $34,000, up to 85% of your benefit
+
+112
+00:04:50,980 --> 00:04:52,020
+can be taxed.
+
+113
+00:04:52,340 --> 00:04:56,040
+Those lines were written in 1983 and 1993.
+
+114
+00:04:56,460 --> 00:04:58,120
+They have never been adjusted for
+
+115
+00:04:58,140 --> 00:05:00,040
+inflation, not once.
+
+116
+00:05:00,160 --> 00:05:02,580
+So every raise pushes a little more of
+
+117
+00:05:02,600 --> 00:05:05,380
+your benefit over a line that never moves.
+
+118
+00:05:05,740 --> 00:05:07,740
+A raise that keeps pace with prices can
+
+119
+00:05:07,760 --> 00:05:10,180
+still cost you more in tax than it did the
+
+120
+00:05:10,200 --> 00:05:11,140
+year before.
+
+121
+00:05:11,260 --> 00:05:13,460
+There is a temporary extra deduction right
+
+122
+00:05:13,480 --> 00:05:17,420
+now, up to $6,000 for people 65 and over,
+
+123
+00:05:17,440 --> 00:05:20,280
+through the 2028 tax year, and it phases
+
+124
+00:05:20,300 --> 00:05:21,800
+out at higher incomes.
+
+125
+00:05:22,140 --> 00:05:24,860
+It helps. It doesn't move the lines, and
+
+126
+00:05:24,880 --> 00:05:26,340
+it's scheduled to end.
+
+127
+00:05:27,000 --> 00:05:28,240
+How to check yours.
+
+128
+00:05:28,640 --> 00:05:31,840
+On your federal return, Line 6A is your
+
+129
+00:05:31,860 --> 00:05:34,700
+total benefit, and Line 6B is the part
+
+130
+00:05:34,720 --> 00:05:35,800
+that was taxed.
+
+131
+00:05:36,440 --> 00:05:39,060
+Compare 6B across the last three years.
+
+132
+00:05:39,240 --> 00:05:41,420
+If it's climbing faster than your benefit,
+
+133
+00:05:41,480 --> 00:05:43,380
+the lines are catching you.
+
+134
+00:05:44,960 --> 00:05:47,060
+Number 3. The Drift.
+
+135
+00:05:47,880 --> 00:05:49,680
+Here's what 10 years of those notices
+
+136
+00:05:49,700 --> 00:05:50,960
+would show you.
+
+137
+00:05:51,140 --> 00:05:53,380
+Over the last decade, the cost of living
+
+138
+00:05:53,400 --> 00:05:56,220
+raises added up to about 35%.
+
+139
+00:05:56,240 --> 00:06:00,340
+A check of about $1,500 in 2016 grew to
+
+140
+00:06:00,360 --> 00:06:02,900
+about $2,071 today.
+
+141
+00:06:03,260 --> 00:06:05,620
+Over the same 10 years, the standard Part
+
+142
+00:06:05,640 --> 00:06:12,300
+B premium went from $121.80 to $202.90,
+
+143
+00:06:12,760 --> 00:06:17,020
+up 67%, nearly twice as fast as the raise.
+
+144
+00:06:17,460 --> 00:06:18,700
+That's the drift.
+
+145
+00:06:18,920 --> 00:06:20,660
+Not a scandal, not a trick.
+
+146
+00:06:20,680 --> 00:06:23,080
+Healthcare costs have simply been rising
+
+147
+00:06:23,100 --> 00:06:25,420
+faster than prices in general for a long
+
+148
+00:06:25,440 --> 00:06:28,020
+time, and the premium follows the cost of
+
+149
+00:06:28,040 --> 00:06:30,660
+the care. The trustees expect Part B
+
+150
+00:06:30,680 --> 00:06:32,740
+spending to keep climbing quickly over the
+
+151
+00:06:32,760 --> 00:06:33,980
+next five years.
+
+152
+00:06:35,240 --> 00:06:36,660
+Now carry that forward.
+
+153
+00:06:37,060 --> 00:06:40,480
+Today, Part B takes about $1 in every 10
+
+154
+00:06:40,500 --> 00:06:41,940
+from the average check.
+
+155
+00:06:42,260 --> 00:06:45,160
+Let's assume the raise averages 2.4% a
+
+156
+00:06:45,180 --> 00:06:47,260
+year, which is what Social Security's
+
+157
+00:06:47,280 --> 00:06:48,400
+trustees project.
+
+158
+00:06:48,460 --> 00:06:50,700
+And let's assume the premium keeps rising
+
+159
+00:06:50,720 --> 00:06:52,960
+the way it did over the last 10 years,
+
+160
+00:06:53,060 --> 00:06:54,660
+about 5% a year.
+
+161
+00:06:54,920 --> 00:06:59,500
+By 2046, Part B takes about $1 in every 6.
+
+162
+00:06:59,720 --> 00:07:03,400
+At a faster 6.5%, the cautious case, it's
+
+163
+00:07:03,420 --> 00:07:04,760
+about 1 in 5.
+
+164
+00:07:05,060 --> 00:07:07,220
+Here's what that looks like in dollars, at
+
+165
+00:07:07,240 --> 00:07:08,600
+the 5% pace.
+
+166
+00:07:08,920 --> 00:07:11,580
+At 70, the part of the premium that outran
+
+167
+00:07:11,600 --> 00:07:14,680
+the raise costs about $300 that year.
+
+168
+00:07:14,840 --> 00:07:17,220
+At 75, about $900.
+
+169
+00:07:17,460 --> 00:07:19,760
+At 80, about $1600.
+
+170
+00:07:20,260 --> 00:07:23,980
+At 85, nearly $2700 a year.
+
+171
+00:07:24,240 --> 00:07:26,760
+At the faster pace, the 85 -year -old's
+
+172
+00:07:26,780 --> 00:07:29,180
+number is closer to $4400.
+
+173
+00:07:29,380 --> 00:07:31,500
+For a married couple both on Medicare,
+
+174
+00:07:31,700 --> 00:07:34,200
+that's two premiums drifting at once,
+
+175
+00:07:34,260 --> 00:07:36,360
+usually paid out of one shared pool of
+
+176
+00:07:36,380 --> 00:07:39,200
+savings. Small, every year.
+
+177
+00:07:39,560 --> 00:07:41,060
+Then, not small.
+
+178
+00:07:41,220 --> 00:07:43,300
+And it arrives exactly when most people
+
+179
+00:07:43,320 --> 00:07:45,260
+are least able to earn their way around
+
+180
+00:07:45,280 --> 00:07:48,780
+it. Same check, same raises, a bigger
+
+181
+00:07:48,800 --> 00:07:50,920
+slice gone before the deposit.
+
+182
+00:07:51,240 --> 00:07:53,100
+And that's only the standard premium.
+
+183
+00:07:53,340 --> 00:07:55,860
+It's not the copays, not the drug plan,
+
+184
+00:07:55,920 --> 00:07:56,880
+not the dentist.
+
+185
+00:07:59,280 --> 00:08:01,580
+So where does the difference come from?
+
+186
+00:08:01,940 --> 00:08:03,900
+For most people living on Social Security
+
+187
+00:08:03,920 --> 00:08:06,720
+plus savings, the check covers the basics,
+
+188
+00:08:06,840 --> 00:08:08,500
+and savings cover the rest.
+
+189
+00:08:08,860 --> 00:08:10,520
+When a bigger share of the check goes to
+
+190
+00:08:10,540 --> 00:08:12,920
+Medicare, the basics don't shrink.
+
+191
+00:08:13,100 --> 00:08:14,980
+The gap moves onto the savings.
+
+192
+00:08:15,340 --> 00:08:16,460
+Let's run it.
+
+193
+00:08:16,580 --> 00:08:18,600
+Same example as our Medicare episode.
+
+194
+00:08:19,380 --> 00:08:23,480
+Single, 66, $350,000 saved.
+
+195
+00:08:23,660 --> 00:08:27,360
+Pulling $14,000 a year to start, rising 3%
+
+196
+00:08:27,380 --> 00:08:28,660
+a year with inflation.
+
+197
+00:08:29,480 --> 00:08:30,800
+Savings earning 5%.
+
+198
+00:08:30,820 --> 00:08:33,260
+With no health costs at all, that money
+
+199
+00:08:33,280 --> 00:08:35,100
+would last until about $103.
+
+200
+00:08:35,600 --> 00:08:38,800
+Now add only the drift, just the part of
+
+201
+00:08:38,820 --> 00:08:41,020
+the Part B premium that grows faster than
+
+202
+00:08:41,040 --> 00:08:43,320
+the raise, paid out of savings each year.
+
+203
+00:08:43,340 --> 00:08:47,180
+At 5% premium growth, the money runs dry
+
+204
+00:08:47,200 --> 00:08:51,440
+at $99. At 6.5%, $97.
+
+205
+00:08:53,480 --> 00:08:56,980
+Run it again at a more cautious 4% return.
+
+206
+00:08:57,220 --> 00:09:00,120
+With no drift, the money lasts to $96.
+
+207
+00:09:00,460 --> 00:09:05,520
+With the drift, $94, or $93, 2 to 6 years
+
+208
+00:09:05,540 --> 00:09:08,360
+from one line on one notice.
+
+209
+00:09:08,400 --> 00:09:10,940
+Before a single copay, before a single
+
+210
+00:09:10,960 --> 00:09:11,700
+prescription.
+
+211
+00:09:12,120 --> 00:09:13,880
+That's why the raise in the headline is
+
+212
+00:09:13,900 --> 00:09:15,520
+the wrong number to watch.
+
+213
+00:09:15,740 --> 00:09:17,800
+The number to watch is what's left after
+
+214
+00:09:17,820 --> 00:09:20,340
+the cut and how fast that's changing.
+
+215
+00:09:20,580 --> 00:09:21,700
+How to check yours.
+
+216
+00:09:22,200 --> 00:09:24,360
+Take your last few notices or your bank
+
+217
+00:09:24,380 --> 00:09:26,200
+deposits from each January.
+
+218
+00:09:26,560 --> 00:09:28,160
+Subtract the deposit from the gross
+
+219
+00:09:28,180 --> 00:09:30,820
+benefit. That's your Medicare deduction.
+
+220
+00:09:31,080 --> 00:09:33,160
+If it's growing faster than your raise,
+
+221
+00:09:33,300 --> 00:09:35,380
+the gap is coming out of your savings,
+
+222
+00:09:35,480 --> 00:09:37,360
+whether you plan for it or not.
+
+223
+00:09:38,520 --> 00:09:40,560
+So, three numbers.
+
+224
+00:09:40,800 --> 00:09:45,760
+The raise. For 2027, 3.6%.
+
+225
+00:09:45,780 --> 00:09:49,260
+About $75 a month on the average check.
+
+226
+00:09:49,660 --> 00:09:52,980
+The cut. Medicare's Part B premium.
+
+227
+00:09:53,160 --> 00:09:56,440
+Projected at about $6.60 more.
+
+228
+00:09:56,640 --> 00:09:58,180
+Taken before the deposit.
+
+229
+00:09:58,720 --> 00:10:00,000
+And the drift.
+
+230
+00:10:00,380 --> 00:10:02,820
+For the last 10 years, the cut has grown
+
+231
+00:10:02,840 --> 00:10:04,980
+nearly twice as fast as the raise.
+
+232
+00:10:05,000 --> 00:10:07,940
+Carried forward, it pulls the age the
+
+233
+00:10:07,960 --> 00:10:10,580
+money runs out in by two to six years in
+
+234
+00:10:10,600 --> 00:10:12,800
+our example, from the standard premium
+
+235
+00:10:12,820 --> 00:10:15,560
+alone. Who does this hit hardest?
+
+236
+00:10:15,880 --> 00:10:18,260
+The people who rely on Social Security for
+
+237
+00:10:18,280 --> 00:10:20,640
+most of their income, and the people with
+
+238
+00:10:20,660 --> 00:10:23,060
+smaller savings to absorb the gap.
+
+239
+00:10:23,280 --> 00:10:25,640
+A larger balance hides the drift for
+
+240
+00:10:25,660 --> 00:10:28,080
+longer. It doesn't stop it.
+
+241
+00:10:28,240 --> 00:10:30,680
+None of this means Medicare is a bad deal
+
+242
+00:10:30,700 --> 00:10:32,280
+or the raise is a sham.
+
+243
+00:10:32,300 --> 00:10:35,200
+Both are doing what they were built to do.
+
+244
+00:10:35,280 --> 00:10:37,520
+It means the raise was never designed to
+
+245
+00:10:37,540 --> 00:10:38,880
+keep up with healthcare.
+
+246
+00:10:39,140 --> 00:10:41,680
+That part is on you to plan for.
+
+247
+00:10:41,940 --> 00:10:43,660
+And remember where this started.
+
+248
+00:10:43,860 --> 00:10:46,220
+The raise is real, and you should be glad
+
+249
+00:10:46,240 --> 00:10:48,060
+of it. It's the headline.
+
+250
+00:10:48,360 --> 00:10:50,380
+The deposit is the story.
+
+251
+00:10:50,880 --> 00:10:52,700
+One thing to do this year.
+
+252
+00:10:52,880 --> 00:10:54,920
+When your notice arrives in December,
+
+253
+00:10:55,020 --> 00:10:56,660
+write down three numbers.
+
+254
+00:10:56,800 --> 00:10:59,280
+The new benefit, the Medicare deduction,
+
+255
+00:10:59,420 --> 00:11:00,320
+and the deposit.
+
+256
+00:11:00,340 --> 00:11:02,740
+Put them next to last year's.
+
+257
+00:11:02,760 --> 00:11:04,120
+Do it every year.
+
+258
+00:11:04,260 --> 00:11:06,600
+In five years, you'll see your own drift
+
+259
+00:11:06,620 --> 00:11:08,320
+in your own handwriting.
+
+260
+00:11:08,700 --> 00:11:11,960
+A fee only fiduciary or a CPA can put that
+
+261
+00:11:11,980 --> 00:11:14,240
+drift into your own plan with you.
+
+262
+00:11:14,260 --> 00:11:15,600
+That's what they're for.
+
+263
+00:11:15,760 --> 00:11:17,840
+Because the question was never whether you
+
+264
+00:11:17,860 --> 00:11:18,860
+got a raise.
+
+265
+00:11:19,000 --> 00:11:21,140
+It's whether the money you saved is still
+
+266
+00:11:21,160 --> 00:11:23,500
+there at 90, when the check is smaller
+
+267
+00:11:23,520 --> 00:11:25,760
+than the bills and you can't go back to
+
+268
+00:11:25,780 --> 00:11:28,860
+work. If this was useful, subscribe.
+
+269
+00:11:29,080 --> 00:11:31,540
+New numbers every Tuesday and Friday.
+
+270
+00:11:32,920 --> 00:11:35,160
+Will your money last as long as you do?
